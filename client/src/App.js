@@ -1,5 +1,6 @@
-import logo from './logo.svg';
 //import './App.css';
+
+console.log("3..2..1.. Client started");
 
 function App() {
   return (
